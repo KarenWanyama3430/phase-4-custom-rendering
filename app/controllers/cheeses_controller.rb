@@ -16,4 +16,3 @@ class CheesesController < ApplicationController
     end
   end
 
-end
